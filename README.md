@@ -22,7 +22,6 @@ Estou sempre em busca de novos desafios e oportunidades para ampliar meus conhec
 
 **Implantação & Administração de ERP**
 - Parametrização do sistema (Oracle NetSuite)
-- Criação e manutenção de Workflows
 - Gestão de usuários, papéis e permissões
 - Homologação de funcionalidades e ambientes
 
