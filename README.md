@@ -1,8 +1,14 @@
 ## 🧭 Sobre mim
 
-Sou **Analista de PMO** com atuação consolidada em **implantação, parametrização e administração de Oracle NetSuite**, unindo visão de negócio com domínio técnico de ERP. Minha trajetória passa por Pré-Vendas, Suporte a Vendas e Análise de Projetos, o que me deu uma leitura completa do ciclo: do requisito do cliente à entrega técnica homologada.
+Atuo como **Analista de Projetos** com foco na implantação, administração e evolução de sistemas ERP, participando da transformação de processos e da implementação de soluções que apoiam as áreas de negócio.
 
-Atuo na ponte entre **áreas de negócio (Financeiro, Fiscal, Compras, Logística e Operações)** e **times de sistema**, traduzindo processos reais em configurações, workflows e integrações que funcionam no dia a dia da operação.
+Nos últimos anos, tenho trabalhado diretamente com Oracle NetSuite, atuando na parametrização do sistema, levantamento de requisitos, homologação de funcionalidades, gestão de acessos e permissões, criação de workflows, importação de dados, documentação de processos e treinamento de usuários. Também acompanho integrações entre sistemas e participo da identificação e implementação de melhorias que tornam as operações mais eficientes.
+
+Minha experiência me permite atuar como elo entre as áreas de negócio e a tecnologia, compreendendo as necessidades dos usuários e transformando essas demandas em soluções práticas e alinhadas aos objetivos da empresa. Tenho vivência com processos das áreas **Financeira, Fiscal, Compras, Logística e Comercial**, sempre buscando padronização, automação e melhoria contínua.
+
+Acredito que tecnologia deve simplificar processos e gerar valor para o negócio. Por isso, procuro desenvolver soluções que não apenas atendam às necessidades atuais, mas que também contribuam para o crescimento e a evolução da empresa.
+
+Estou sempre em busca de novos desafios e oportunidades para ampliar meus conhecimentos em ERP, gestão de projetos, processos de negócio e transformação digital, contribuindo com equipes que valorizam inovação, colaboração e melhoria contínua.
 
 > Não escrevo aplicações do zero — eu **configuro, integro, documento e faço o ERP entregar valor**.
 
