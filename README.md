@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Gabriel Lobato 👋
 
-<!--
-**lobato-g/lobato-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Sou Analista de PMO com experiência em implantação, administração e evolução de sistemas ERP, atuando principalmente com Oracle NetSuite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente participo de projetos voltados para melhoria de processos, levantamento de requisitos, homologação de funcionalidades, parametrização do ERP, workflows, documentação e suporte às áreas de negócio.
+
+Tenho como objetivo desenvolver soluções que simplifiquem processos, aumentem a eficiência operacional e gerem valor para as empresas.
+
+## Áreas de atuação
+
+- Oracle NetSuite
+- Implantação de ERP
+- Administração de ERP
+- Gestão de Projetos
+- Processos de Negócio
+- Melhoria Contínua
+- Business Analysis
+- Documentação
+- Workflows
+
+## Contato
+
+📧 **lobato_g@icloud.com**
+
+💼 **LinkedIn:** (adicione o link do seu LinkedIn)
